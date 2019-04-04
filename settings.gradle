@@ -1,0 +1,1 @@
+include ':OpenAndClose', ':FactoryPattern', ':ProxyPattern', ':BuilderPattern', ':LPSPrinciple', ':DIPPrinciple', ':InterfaceIsolatePrincple', ':LKPrinciple', ':ObserverPattern', ':StrategyPattern', ':ResponseChainPattern'

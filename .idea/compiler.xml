@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="BuilderPattern" target="1.6" />
+      <module name="DIPPrinciple" target="1.6" />
+      <module name="FactoryPattern" target="1.6" />
+      <module name="InterfaceIsolatePrincple" target="1.6" />
+      <module name="LKPrinciple" target="1.6" />
+      <module name="LPSPrinciple" target="1.6" />
+      <module name="ObserverPattern" target="1.6" />
+      <module name="ProxyPattern" target="1.6" />
+      <module name="ResponseChainPattern" target="1.6" />
+      <module name="StrategyPattern" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
